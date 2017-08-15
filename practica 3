@@ -1,0 +1,26 @@
+<DOCTYPE HTML>
+<HTML>
+<HEAD>
+<meta charset="UTF-8"/>
+<TITLE>Practica 3 - parrafos</title>
+</HEAD>
+<BODY>
+<CENTER><H1>Bienvenido a mi pagina HTML</H1></CENTER>
+<hr>
+<br>
+<font face="Comic Sans MS, arial, verdana" color="red">
+  <p ALIGN="LEFT">HTML es un <b>lenguaje</b> para crear paginas web</p>
+  </font>
+  <font face="Comic Sans MS, arial, verdana" size="10">
+  <p ALIGN="CENTER" style="color:#00FF00";>Este lenguaje <i>nos permite</i> insertar texto, audio, etc</p>
+  </font>
+  <font face="Comic Sans MS, arial, verdana" size="10">
+  <p ALIGN="right" style="color:#0000FF";>HTML nos permite hacer <u>referencias</u> a otras paginas </p>
+  </font>
+  
+  <i>Texto en italica</i><br>
+  <b>Texto en negrita</b><br>
+  <u>Texto subrayado</u><br>
+  
+ </body>
+</HTML>
